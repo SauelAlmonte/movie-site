@@ -1,4 +1,4 @@
-import REACT from "react";
+import React from "react";
 
 const NotFound = () => <div>NotFound</div>;
 
