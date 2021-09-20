@@ -12,7 +12,7 @@ import Button from "./Button";
 // Hook
 import { useHomeFetch } from "../hooks/useHomeFetch";
 //Image
-import NoImage from "../images/no_image.jpeg";
+import NoImage from "../images/no_image.jpg";
 
 const Home = () => {
   const { state, loading, error, searchTerm, setSearchTerm, setIsLoadingMore } =

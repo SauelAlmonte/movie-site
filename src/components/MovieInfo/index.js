@@ -4,7 +4,7 @@ import Thumb from "../Thumb";
 // Config
 import { IMAGE_BASE_URL, POSTER_SIZE } from "../../config";
 // Image
-import NoImage from "../../images/no_image.jpeg";
+import NoImage from "../../images/no_image.jpg";
 // Styles
 import { Wrapper, Content, Text } from "./MovieInfo.styles";
 

@@ -48,7 +48,8 @@ export const Text = styled.div`
     align-items: center;
     justify-content: center;
     width: 35px;
-    height: 35pxbackgrond: #ffffff;
+    height: 35px;
+    background: #ffffff;
     color: #000;
     font-weight: 800;
     border-radius: 50%;

@@ -10,7 +10,7 @@ import MovieInfo from './MovieInfo';
 // Hook
 import { useMovieFetch } from '../hooks/useMovieFetch';
 // Image
-import NoImage from "../images/no_image.jpeg";
+import NoImage from "../images/no_image.jpg";
 
 const Movie = () => {
     const { movieId } = useParams();
