@@ -23,7 +23,7 @@ export const Content = styled.div`
   display: flex;
   max-width: var(--maxWidth);
   margin: 0 auto;
-  background: rgba(0, 0, 0, 0.7);
+  background: rgb(0, 0, 0, 0.7);
   border-radius: 20px;
 
   @media screen and (max-width: 768px) {
@@ -49,7 +49,7 @@ export const Text = styled.div`
     justify-content: center;
     width: 35px;
     height: 35px;
-    background: #ffffff;
+    background: #fff;
     color: #000;
     font-weight: 800;
     border-radius: 50%;
