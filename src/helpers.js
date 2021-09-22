@@ -13,3 +13,8 @@ export const calcTime = time => {
     });
     return formatter.format(money);
   };
+
+export const isPersistedState = stateName => {
+  const sessionState = sessionStorage.getItem(stateName);
+  return sessionState && JSON.parse(sessionState);
+  }
